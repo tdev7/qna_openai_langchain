@@ -1,1 +1,2 @@
-# qna_openai_langchain
+# 🎈 Streamlit + LLM Examples App
+
